@@ -1,0 +1,14 @@
+﻿  AI.c
+  Assets.c
+  button.c
+  Common.c
+  Game.c
+  Input.c
+  main.c
+D:\Etudes\ESIEA\A2\Algo Avancées\ConnectFour_IA_UI\BasecodeSDL\main.c(20,1): warning C4026: fonction déclarée avec une liste de paramètres formels
+D:\Etudes\ESIEA\A2\Algo Avancées\ConnectFour_IA_UI\BasecodeSDL\main.c(24,11): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+D:\Etudes\ESIEA\A2\Algo Avancées\ConnectFour_IA_UI\BasecodeSDL\main.c(135,49): warning C4020: 'Game_PlayTurn' : paramètres réels trop nombreux
+D:\Etudes\ESIEA\A2\Algo Avancées\ConnectFour_IA_UI\BasecodeSDL\main.c(153,41): warning C4020: 'Game_PlayTurn' : paramètres réels trop nombreux
+  Timer.c
+  Génération de code en cours...
+  BasecodeSDL.vcxproj -> D:\Etudes\ESIEA\A2\Algo Avancées\ConnectFour_IA_UI\x64\Debug\BasecodeSDL.exe
